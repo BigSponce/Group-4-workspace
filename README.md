@@ -1,3 +1,5 @@
 # Group-4-workspace
 
-Read Me for the main branch.
+Main is the combined page for our group.
+
+In the branches, you'll see one for each member to put individual projects.
